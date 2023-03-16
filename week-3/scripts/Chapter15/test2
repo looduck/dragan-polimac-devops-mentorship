@@ -1,5 +1,0 @@
-total 4
--rw-rw-r--. 1 centos centos  0 Mar 16 05:28 test2
--rw-rw-r--. 1 centos centos 73 Mar 16 05:28 testfile
- 05:30:17 up 22 days, 12:47,  0 users,  load average: 0.01, 0.02, 0.05
-USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
