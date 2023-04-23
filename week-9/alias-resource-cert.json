@@ -1,0 +1,18 @@
+{
+    "Comment": "Creating Alias resource record sets in Route 53",
+    "Changes": [
+        {
+            "Action": "CREATE",
+            "ResourceRecordSet": {
+                "Name": "_aabb6bda79090d429e55687ae2513f7b.dragan-polimac.awsbosnia.com.",
+                "Type": "CNAME",
+                "TTL": 60,
+                "ResourceRecords":[
+                    {
+                        "Value": "_1663d7361680cd742dd763d33dafbede.fgsdscwdjl.acm-validations.aws."
+                    }
+                ]
+        }
+    }
+    ]
+}
