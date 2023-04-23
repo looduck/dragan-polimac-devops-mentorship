@@ -1,0 +1,18 @@
+{
+    "Comment": "Creating Alias resource record sets in Route 53",
+    "Changes": [
+        {
+            "Action": "UPSERT",
+            "ResourceRecordSet": {
+                "Name": "dragan-polimac.awsbosnia.com",
+                "Type": "CNAME",
+                "TTL": 60,
+                "ResourceRecords":[
+                    {
+                        "Value": "alb-dragan-polimac-web-server-1251414415.us-east-1.elb.amazonaws.com"
+                    }
+                ]
+        }
+    }
+    ]
+}
