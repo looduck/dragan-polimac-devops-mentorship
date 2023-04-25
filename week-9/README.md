@@ -1,6 +1,6 @@
 ### TASK no. 8
 
-🌐 TASK-8: Implement SSL Let's Encrypt, migrate to AWS SSM 🌐
+🌐 TASK-8: Implement SSL Let's Encrypt, migrate to AWS ACM 🌐
 
 - Task obuhvata:
     - [x] Od AMI image ec2-dragan-polimac-web-server kreirana nova EC2 instanca **ec2-dragan-polimac-task-8**.
